@@ -1,0 +1,6 @@
+/home/alexpeyot/Projects/cryptez/cryptez/bin/Debug/cryptez.exe
+/home/alexpeyot/Projects/cryptez/cryptez/bin/Debug/cryptez.pdb
+/home/alexpeyot/Projects/cryptez/cryptez/obj/x86/Debug/cryptez.csprojAssemblyReference.cache
+/home/alexpeyot/Projects/cryptez/cryptez/obj/x86/Debug/cryptez.csproj.CoreCompileInputs.cache
+/home/alexpeyot/Projects/cryptez/cryptez/obj/x86/Debug/cryptez.exe
+/home/alexpeyot/Projects/cryptez/cryptez/obj/x86/Debug/cryptez.pdb

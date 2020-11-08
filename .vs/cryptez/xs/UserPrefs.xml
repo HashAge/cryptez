@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{61649E98-45F5-4E1C-A93E-2080A0FB6FB9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="cryptez/Program.cs">
+    <Files>
+      <File FileName="cryptez/Program.cs" Line="11" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cryptez" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.cryptez PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
