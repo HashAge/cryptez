@@ -4,3 +4,17 @@
 /home/alexpeyot/Projects/cryptez/cryptez/obj/x86/Debug/cryptez.csproj.CoreCompileInputs.cache
 /home/alexpeyot/Projects/cryptez/cryptez/obj/x86/Debug/cryptez.exe
 /home/alexpeyot/Projects/cryptez/cryptez/obj/x86/Debug/cryptez.pdb
+C:/Users/alex1s/Desktop/cryptez/cryptez/bin/Debug/cryptez.exe.config
+C:/Users/alex1s/Desktop/cryptez/cryptez/bin/Debug/cryptez.exe
+C:/Users/alex1s/Desktop/cryptez/cryptez/bin/Debug/cryptez.pdb
+C:/Users/alex1s/Desktop/cryptez/cryptez/obj/x86/Debug/cryptez.csprojAssemblyReference.cache
+C:/Users/alex1s/Desktop/cryptez/cryptez/obj/x86/Debug/cryptez.csproj.CoreCompileInputs.cache
+C:/Users/alex1s/Desktop/cryptez/cryptez/obj/x86/Debug/cryptez.exe
+C:/Users/alex1s/Desktop/cryptez/cryptez/obj/x86/Debug/cryptez.pdb
+/home/alexpeyot/Desktop/cryptez/cryptez/bin/Debug/cryptez.exe.config
+/home/alexpeyot/Desktop/cryptez/cryptez/bin/Debug/cryptez.exe
+/home/alexpeyot/Desktop/cryptez/cryptez/bin/Debug/cryptez.pdb
+/home/alexpeyot/Desktop/cryptez/cryptez/obj/x86/Debug/cryptez.csprojAssemblyReference.cache
+/home/alexpeyot/Desktop/cryptez/cryptez/obj/x86/Debug/cryptez.csproj.CoreCompileInputs.cache
+/home/alexpeyot/Desktop/cryptez/cryptez/obj/x86/Debug/cryptez.exe
+/home/alexpeyot/Desktop/cryptez/cryptez/obj/x86/Debug/cryptez.pdb
